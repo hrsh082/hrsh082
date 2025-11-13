@@ -17,6 +17,19 @@ Focused on MERN, TypeScript, and open-source — preparing for GSoC 2026.
 ### 🎯 Current
 Open-source contributions • System design basics • Better full-stack architecture
 
+## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hrsh082&show_icons=true&theme=tokyonight" height="180px" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hrsh082&theme=tokyonight" height="180px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrsh082&layout=compact&theme=tokyonight" height="180px" />
+
+</div>
+
+---
+
 ## 📫 How to reach me
 [LinkedIn]www.linkedin.com/in/harsh-082-gajjar • [Twitter/X]https://x.com/_hrsh_082 • Email: harshgajjar280@gmail.com
 
